@@ -138,7 +138,7 @@ public class 실습_10_3_ArrayList정렬 {
 		// 컬렉션 blist에 저장된 데이터를 정렬 
 		Collections.sort(blist, new StudentComparator2());
 		System.out.println();
-		System.out.println("번호순 정렬");
+		System.out.println("학번순 정렬");
 		for (Student s : blist)
 			System.out.println(s);
 			
