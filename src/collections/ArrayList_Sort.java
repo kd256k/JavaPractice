@@ -1,4 +1,4 @@
-package re;
+package collections;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.Random;
  
 /*
  * 1) 정수의 정렬
- *  1.1) 정수 배열의 정렬
+ *  1.1) 정수 배열의 정렬 
  *  1.2) ArrayList의 정렬
  * 2) 객체의 정렬
  *  2.1 객체 배열의 정렬
@@ -58,7 +58,7 @@ class StudentComparator2 implements Comparator<Student> {
 		return s1.getSid() - s2.getSid();
 	}
 }
-public class 실습_10_3_ArrayList정렬 {
+public class ArrayList_Sort {
 
 	private static Random random = new Random();
 	

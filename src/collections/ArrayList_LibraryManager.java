@@ -1,4 +1,4 @@
-package re;
+package collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -104,7 +104,7 @@ class BookIsbnComparator implements Comparator<Book>{
 	}
 }
 
-public class 실습_10_4_도서관리 {
+public class ArrayList_LibraryManager {
 	public static void main(String[] args) {
 
 		Library library = new Library();
