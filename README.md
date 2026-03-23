@@ -12,6 +12,7 @@ java-kdt-practice/
 │   ├── stack/
 │   ├── queue/
 │   ├── collections/
+│   └── sorting/
 ├── assignments/
 └── notes/
 ```
